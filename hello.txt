@@ -1,0 +1,2 @@
+"somenew text in hello.txt" 
+"master version" 
