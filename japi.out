@@ -1,0 +1,40 @@
+Enter symbol: (Example: (AAPL/IBM): AAPL
+The current price is: 
+1. open 116.2500
+2. high 116.4000
+3. low 114.5901
+4. close 114.9700
+5. volume 83477153
+Do you want to continue (y/n): y
+Enter symbol: (Example: (AAPL/IBM): IBM
+The current price is: 
+1. open 130.8600
+2. high 135.5000
+3. low 129.7700
+4. close 131.4900
+5. volume 25288926
+Do you want to continue (y/n): y
+Enter symbol: (Example: (AAPL/IBM): TSLA
+The current price is: 
+1. open 438.4400
+2. high 439.0000
+3. low 425.3000
+4. close 425.9200
+5. volume 40421116
+Do you want to continue (y/n): y
+Enter symbol: (Example: (AAPL/IBM): AMZN
+The current price is: 
+1. open 3224.9900
+2. high 3233.2944
+3. low 3174.9900
+4. close 3190.5500
+5. volume 3174114
+Do you want to continue (y/n): y
+Enter symbol: (Example: (AAPL/IBM): FB
+The current price is: 
+1. open 259.7500
+2. high 264.6200
+3. low 259.1488
+4. close 263.7600
+5. volume 16312762
+Do you want to continue (y/n): n
